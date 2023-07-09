@@ -1,0 +1,15 @@
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\bin\Debug\net6.0\Csharp_Assignment.exe
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\bin\Debug\net6.0\Csharp_Assignment.deps.json
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\bin\Debug\net6.0\Csharp_Assignment.runtimeconfig.json
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\bin\Debug\net6.0\Csharp_Assignment.dll
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\bin\Debug\net6.0\Csharp_Assignment.pdb
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\obj\Debug\net6.0\Csharp_Assignment.csproj.AssemblyReference.cache
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\obj\Debug\net6.0\Csharp_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\obj\Debug\net6.0\Csharp_Assignment.AssemblyInfoInputs.cache
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\obj\Debug\net6.0\Csharp_Assignment.AssemblyInfo.cs
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\obj\Debug\net6.0\Csharp_Assignment.csproj.CoreCompileInputs.cache
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\obj\Debug\net6.0\Csharp_Assignment.dll
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\obj\Debug\net6.0\refint\Csharp_Assignment.dll
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\obj\Debug\net6.0\Csharp_Assignment.pdb
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\obj\Debug\net6.0\Csharp_Assignment.genruntimeconfig.cache
+F:\Kanini Training\C#\Csharp_Assignment\Csharp_Assignment\obj\Debug\net6.0\ref\Csharp_Assignment.dll

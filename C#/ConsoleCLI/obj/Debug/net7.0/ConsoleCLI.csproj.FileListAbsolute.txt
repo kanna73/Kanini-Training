@@ -1,0 +1,15 @@
+F:\Kanini Training\C#\ConsoleCLI\bin\Debug\net7.0\ConsoleCLI.exe
+F:\Kanini Training\C#\ConsoleCLI\bin\Debug\net7.0\ConsoleCLI.deps.json
+F:\Kanini Training\C#\ConsoleCLI\bin\Debug\net7.0\ConsoleCLI.runtimeconfig.json
+F:\Kanini Training\C#\ConsoleCLI\bin\Debug\net7.0\ConsoleCLI.dll
+F:\Kanini Training\C#\ConsoleCLI\bin\Debug\net7.0\ConsoleCLI.pdb
+F:\Kanini Training\C#\ConsoleCLI\obj\Debug\net7.0\ConsoleCLI.csproj.AssemblyReference.cache
+F:\Kanini Training\C#\ConsoleCLI\obj\Debug\net7.0\ConsoleCLI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kanini Training\C#\ConsoleCLI\obj\Debug\net7.0\ConsoleCLI.AssemblyInfoInputs.cache
+F:\Kanini Training\C#\ConsoleCLI\obj\Debug\net7.0\ConsoleCLI.AssemblyInfo.cs
+F:\Kanini Training\C#\ConsoleCLI\obj\Debug\net7.0\ConsoleCLI.csproj.CoreCompileInputs.cache
+F:\Kanini Training\C#\ConsoleCLI\obj\Debug\net7.0\ConsoleCLI.dll
+F:\Kanini Training\C#\ConsoleCLI\obj\Debug\net7.0\refint\ConsoleCLI.dll
+F:\Kanini Training\C#\ConsoleCLI\obj\Debug\net7.0\ConsoleCLI.pdb
+F:\Kanini Training\C#\ConsoleCLI\obj\Debug\net7.0\ConsoleCLI.genruntimeconfig.cache
+F:\Kanini Training\C#\ConsoleCLI\obj\Debug\net7.0\ref\ConsoleCLI.dll
