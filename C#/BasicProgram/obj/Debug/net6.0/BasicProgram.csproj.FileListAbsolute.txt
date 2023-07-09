@@ -1,0 +1,15 @@
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\bin\Debug\net6.0\BasicProgram.exe
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\bin\Debug\net6.0\BasicProgram.deps.json
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\bin\Debug\net6.0\BasicProgram.runtimeconfig.json
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\bin\Debug\net6.0\BasicProgram.dll
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\bin\Debug\net6.0\BasicProgram.pdb
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\obj\Debug\net6.0\BasicProgram.csproj.AssemblyReference.cache
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\obj\Debug\net6.0\BasicProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\obj\Debug\net6.0\BasicProgram.AssemblyInfoInputs.cache
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\obj\Debug\net6.0\BasicProgram.AssemblyInfo.cs
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\obj\Debug\net6.0\BasicProgram.csproj.CoreCompileInputs.cache
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\obj\Debug\net6.0\BasicProgram.dll
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\obj\Debug\net6.0\refint\BasicProgram.dll
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\obj\Debug\net6.0\BasicProgram.pdb
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\obj\Debug\net6.0\BasicProgram.genruntimeconfig.cache
+F:\Kanini Training\C#\programs\BasicProgram\BasicProgram\obj\Debug\net6.0\ref\BasicProgram.dll
