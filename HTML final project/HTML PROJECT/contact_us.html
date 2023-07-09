@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Game</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+        <link rel="stylesheet" href="contact_us.css">
+        <script src="contact_us.js"></script>
+    </head>
+    <body>
+        <div class="hdr d-flex flex-wrap sm ">
+            <header>
+                <div class="head m-4">
+                    <div class="logoname d-flex">
+                        <div class="logo">
+                            <img src="./images/logo1.jpg" width="60px" height="60px" alt="logo pic">
+                        </div>
+                        <div class="name ">
+                            <h2 class="game_name display-3 font-weight-bolder text-light px-3">Gamify</h2>
+                        </div>
+                    </div>
+                   
+                    
+                </div>
+            </header>
+            <header class="ml-auto">
+                <nav class="">
+                <div class="navbar-nav m-3">
+                    <div class="navlist ">
+                        <ul class="d-flex list-unstyled view m-3">
+                            <li class="nav-item active"><a href="index.html"  class="px-3 h2 font-weight-light text-decoration-none nav-link overlay">Home</a></li>
+                            <li class="nav-item" ><a href="news.html" class="px-3 h2 font-weight-light text-decoration-none nav-link zoom">News</a></li>
+                            <li class="nav-item" ><a href="contact_us.html" class="px-3 h2 font-weight-light text-decoration-none nav-link zoom">Contact</a></li>
+                            <li class="nav-item" ><a href="login.html" class="px-3 h2 font-weight-light text-decoration-none nav-link zoom">Login</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav> 
+        </div>
+        <section>
+            <div class="outerdiv">
+              <div class="contact">
+                  <h1>Contact Us Directly</h1><br>
+                <div class="form1">
+                    <form name="contact_us">
+                        <!-- <label for="name">Name:</label><br> -->
+                        <input type="text" id="name" placeholder="Name"><br><br>
+                        <!-- <label for="email">Email:</label><br> -->
+                        <input type="email" id="email" placeholder="Email"><br><br>
+                        <!-- <label for="subject">Subject:</label><br> -->
+                        <input type="text" id="subject" placeholder="Subject"><br><br>
+                        <!-- <label for="message">Message:</label><br> -->
+                        <textarea id="message" name="message" rows="4" cols="20" placeholder="Message"></textarea>
+                        <button type="submit" onclick="fun4()" id="submit"><a id ="link" href ="#">Send</a></button></a><br>
+                        <div id="result">
+                            <p>Thank You. We will get back to you shortly.</p>
+                            <button type="reset" onclick="fun5()" id="reset"><a id ="link" href ="#">reset</a></button></a><br>
+
+                        </div>
+                    </form>
+                </div>
+              </div>
+            </div>
+        </section>
+        <footer>
+            <div class="foot container-fluid ">
+                <div class="social_media imgobj row m-1 d-flex justify-content-center">
+                    <a href="https://www.facebook.com/Gamify/"> <img class="img_logo d-flex img-rounded p-1 " src="./images/fb.png" alt="logo"></a>
+                    <a href="https://www.instagram.com/gamify/?hl=en"><img class="img_logo d-flex img-rounded p-1" src="./images/insta.png" alt="logo"></a> 
+                    <a href="https://www.youtube.com/channel/UCK_Iapgnz6BuEh6yfuWVg-Q"><img class="img_logo d-flex img-rounded p-1" src="./images/youtube.png" alt="logo"></a>
+                </div>
+                    
+                <div class="d-flex justify-content-center">
+                    <div class="resource">
+                        <div class="d-flex justify-content-center"><h2 class="h1 text-light">Resource:</h2></div>
+                        <div class="res_content d-flex ">
+                          <div class="res1 h4 p-2 ">
+                            <a href="#" class="text-light">Support-A-Creator</a><br>
+                            <a href="#" class="text-light">Distribute on Epic Games</a><br>
+                            <a href="#" class="text-light">Careers</a><br>
+                            <a href="#" class="text-light">Company</a><br>
+                          </div>
+                          <div class="res2 h4 p-2 ">
+                            <a href="#" class="text-light">Fan Art Policy</a><br>
+                            <a href="#" class="text-light">UX Research</a><br>
+                            <a href="#" class="text-light">Store EULA</a><br>
+                          </div>
+                          <div class="res3 h4 p-2">
+                            <a href="#" class="text-light">Online Services</a><br>
+                            <a href="#" class="text-light">Community Rules</a><br>
+                            <a href="#" class="text-light">Epic Newsroom</a><br>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="made px-5 mx-5">
+                        <div class="d-flex justify-content-center"><h2 class="h1 text-light">Made by Gamify:</h2></div>
+                        <div class="made_content d-flex ">
+                            <div class="made1 p-2 h4">
+                                <a href="#" class="text-light">Battle Breakers</a><br>
+                                <a href="#" class="text-light">Fortnite</a><br>
+                                <a href="#" class="text-light">Infinity Blade</a><br>
+                            </div>
+                            <div class="made2 p-2 h4">
+                                <a href="#" class="text-light"> Robo Recall</a><br>
+                                <a href="#" class="text-light"> Shadow Complex</a><br>
+                                <a href="#" class="text-light">Unreal Tournament</a><br>
+                            </div>
+                            <div class="made3 p-2 h4">
+                                <a href="#" class="text-light">Rock Breakers</a><br>
+                                <a href="#" class="text-light">Forthcoming</a><br>
+                                <a href="#" class="text-light">Maze Runner</a><br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <hr class="bg-white m-4">
+            <div class="copy_rights h4 px-4">
+                <p>© 2023, Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Fortnite, the Fortnite logo, Unreal, Unreal Engine, the Unreal Engine logo, Unreal Tournament, and the Unreal Tournament logo are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere. Other brands or product names are the trademarks of their respective owners.   </p>
+            </div>
+            <div class="term d-flex h4 px-3 justify-content-center">
+                <div class="term_items p-2 ">
+                    <a href="#" class="text-light">Terms of Service</a>
+                </div>
+                <div class="term_items p-2 mx-4">
+                    <a href="#" class="text-light">Privacy PolicyStore </a>
+                </div>
+                <div class="term_items p-2">
+                    <a href="#" class="text-light">Refund Policy</a>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>

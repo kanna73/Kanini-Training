@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  p{
+    color: white;
+  }
+  
+  .hdr {
+
+    background-color: #121221;
+    margin-bottom: 30px;
+    box-shadow: 4px 2px 3px 4px rgb(179, 176, 183);
+  }
+
+  .navbar-nav li a {
+  
+    color: white;
+  } 
+
+ 
+  
+  
+  .navbar-nav li a:hover {
+    background-color: aliceblue;
+    color: #121218;
+    border-radius: 25px;
+  } 
+  
+  
+  body{
+    height: 100%;
+    background-color: #121218;
+    background: url("./images/login1.jpg")no-repeat;
+   background-position: center;
+   background-size: cover;
+ }
+ 
+ .sec1{
+   display: flex;
+   justify-content: flex-start;
+   flex-wrap: wrap;
+ }
+ .login_outer{
+   width: 100%;
+   /* position: relative;
+   top:5px;
+   left:500px; */
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   background:transparent;
+   /* background-color: #ffffff; */
+ }
+ .login_container{
+   width:450px;
+   height: 450px;
+   border: 2px solid #121226;
+   border-radius: 10px;
+   box-shadow: gray 0px 1px 0px, gray 0px 8px 24px, gray 0px 0px 0px;
+   margin-top: 30px;
+   margin-bottom: 40px;
+ }
+ .login_container h1{
+   color:#ffffff;
+   font-size: 40px;
+   position: relative;
+   top:20px;
+   left:170px;
+ }
+ .login_container label{
+   color: #ffffff;
+   position: relative;
+   top:50px;
+   left:60px;
+   font-size: 25px;
+   font-weight:bolder;
+ }
+ .login_container input{
+   position: relative;
+   top:50px;
+   left: 60px;
+   border-radius: 10px;
+   font-size:20px ;
+   font-weight: 100;
+   width: 320px;
+   height: 40px;
+   border: 2px solid #fff;
+   background-color: #121226;
+   color:#fff;
+   text-align: center;
+ }
+ /* input[type="text"],textarea{
+   border: 2px solid #fff;
+   background-color: #121226;
+ }
+ input[type="password"],textarea{
+   border: 2px solid #fff;
+   background-color: #121226;
+ } */
+ .login_container p{
+   font-size: 20px;
+   font-weight: bold;
+   position: relative;
+   top:100px;
+   left:105px;
+   color: #fff;
+ }
+ .login_container button{
+   width:100px;
+   height: 35px;
+   border-radius: 10px;
+   background-color:#121226;
+   color: #ffffff;
+   font-size: 20px;
+
+ }
+ .login_container a{
+   text-decoration: none;
+   color:#fff
+ }
+
+ #login{
+   position: relative;
+   top:70px;
+   left:170px;
+ }
+ #sign_up{
+   position: relative;
+   top: 100px;
+   left:170px;
+ }
+ button:hover{
+  background-color: #10102e21;
+}
+
+  
+  footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #121221;
+    margin-top: 15px;
+    box-shadow: 2px 2px 2px 7px rgb(179, 176, 183);
+  }
+   
+  .img_logo{
+    width: 35px;
+    height: 35px;
+    padding-left: 0;
+  }
+
+  .sec1 {
+    margin-bottom: 40px;
+  }

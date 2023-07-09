@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  p{
+    color: white;
+  }
+  
+ 
+  .checked {
+    color: orange;
+  }
+
+  
+ 
+  .hdr {
+
+    background-color: #121221;
+    margin-bottom: 30px;
+    box-shadow: 4px 2px 3px 4px rgb(179, 176, 183);
+  }
+
+  .navbar-nav li a {
+  
+    color: white;
+  } 
+
+ 
+  
+  
+  .navbar-nav li a:hover {
+    background-color: aliceblue;
+    color: #121218;
+    border-radius: 25px;
+  } 
+  
+  body{
+  background-color: #121218;
+  }
+
+  
+  
+  footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #121221;
+    margin-top: 15px;
+    box-shadow: 2px 2px 2px 7px rgb(179, 176, 183);
+  }
+   
+  .img_logo{
+    width: 35px;
+    height: 35px;
+    padding-left: 0;
+  }
+
+  .image {
+    
+    object-fit: cover;
+    border-radius: 20px;
+    width: 100%;
+    margin-bottom: 40px;
+    height: 50rem;
+    box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;    }
+  .game_details
+  {
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+    text-align: justify !important;
+  }
+  
+  .downbody {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+    
+  }
+  
+  .download_btn {
+    /* margin-left: 500px; */
+    background-color: #121212;
+    padding: 5px 10px !important;
+    border-radius: 5px;
+    /* margin-left: 580px !important; */
+    color: white;
+    
+  }
+
+  .downandrating {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+  }
+
+  .download_btn:hover {
+    background-color: white;
+   
+    
+  }
+
+  .download_text:hover{
+    color: #0c0050e0;
+    font-weight: bold;
+  }
+
+   
+  .downloadcontainer {
+    background-color: #121226;
+    padding: 30px 25px;
+    border-radius: 20px;
+    padding-bottom: 0px;
+    margin: 20px;
+    
+    
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;  
+  }
+  
+ 
+  
+   
+  
+  
+  /* Import Google font - Poppins */
+.rating-box {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+}
+
+.rating-box header {
+  font-size: 22px;
+  color: #dadada;
+  font-weight: 500;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.rating-box .stars {
+  display: flex;
+  
+  align-items: center;
+  gap: 25px;
+ 
+}
+.stars i {
+  color: #868882;
+  font-size: 35px;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+.stars i.active {
+  color: #ff9c1a;
+}
+
+.section {
+  padding-bottom: 20px;
+}
+  
+  
+  
+ 
+   
