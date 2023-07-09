@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style type="text/css">
+            form{
+                background-color: rgb(71, 137, 161);
+                color: white;
+                padding: 5px;
+            }
+            label{
+                width: 100px;
+                display: inline-block;
+                padding-left: 500px;
+                font-size: large;
+            }
+            input{
+                font-size: large;
+                padding-left: 100px;
+            }
+
+            
+        </style>
+      
+
+    </head>
+    <body>
+        <h1 style=" text-align:center;">Registration Form</h1>
+        <div id ="form">
+        <form name="reg">
+            <fieldset>
+                <legend>Form:</legend>
+            <label for ="fn">First Name:</label>
+             <input type="text" id = "fn"><br><br>
+            <label for ="ln">Last Name:</label>
+             <input type="text" id = "ln"><br><br>
+            <label for ="email">Email:</label>
+             <input type="email" id = "emailid" required><br><br>
+             <label for ="password">Password:</label>
+              <input type="password" id = "password"><br><br>
+              <label for ="confirm">Confirm Password:</label> 
+              <input type="text" id = "confirm"><br><br>
+              <label for=""add">Address</label>
+              <textarea id=""add" rows="5" cols="20"></textarea><br><br>
+              <label for="mob">Mobile:</label>
+              <input type ="number" id="mob" min="10"><br><br>
+              <label for="tel">Tel</label>
+              <input type="tel" id="tel"  maxlength="10" minlength="10"><br><br>
+              <label for="dob">DOB</label>
+              <input type="date" id="dob"><br><br>
+              <label for ="cou">Fav City:</label> 
+              <input list="city" id = "cou">
+               <datalist id="city">
+                 <option value="karaikudi"></option>
+                 <option value="tirupathur"></option>
+               </datalist><br><br>
+               <div style="text-align: center;">
+               <input type="submit" value="Register">
+              <input type="reset" value="Clear"><br><br>
+              </div>
+            </fieldset>
+              
+        </form>
+        </div>
+    </body>
+</html>

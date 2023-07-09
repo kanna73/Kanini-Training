@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Registration Form</h1>
+        <form name="reg">
+            <label for ="fn">First Name:</label>
+             <input type="text" id = "fn"><br>
+            <label for ="ln">Last Name:</label>
+             <input type="text" id = "ln"><br>
+            <label for ="email">Email:</label>
+             <input type="email" id = "emailid" required><br>
+             <label for ="password">Password:</label>
+              <input type="password" id = "password"><br>
+              <label for ="confirm">confirm password:</label> 
+              <input type="text" id = "confirm"><br>
+              <label for=""add">address</label>
+              <textarea id=""add" rows="5" cols="20"></textarea><br>
+              <label for="mob">mobile:</label>
+              <input type ="number" id="mob" min="10"><br>
+              <label for="tel">Tel</label>
+              <input type="tel" id="tel"  maxlength="10" minlength="10">
+              <fieldset>
+              <label>Gender:</label> 
+              <input type="radio" id = "m" name="Gender">
+              <label for="m">Male</label>
+              <input type ="radio" id="f " name="Gender">
+              <label for="f">Female</label><br>
+              <label>Hobby</label>
+              <input type="checkbox" id="r" name="hob"><label for="hob">Reading</label>
+              <input type="checkbox" id ="s" name="hob"><label for ="hob">swimming</label><br>
+              <label for="ec">Extra curricular</label>
+              <select id="ec" multiple>
+                <option value="NCC">NCC</option>
+                <option value="NSS">NSS</option>
+                <option value="Yoga">Yoga</option>
+              </select>
+            </fieldset>
+              <label for="dob">DOB</label>
+              <input type="date" id="dob"><br>
+              <label for="col">Color</label>
+              <input type="color" id="col"><br>
+              <input type="submit" value="Click on Me">
+              <input type="reset" value="Reset"><br>
+              <label for ="cou">Fav country:</label> 
+              <input list=" countries" id = "cou">
+               <datalist id=" countries">
+                 <option value="india"></option>
+                 <option value="usa"></option>
+               </datalist>
+        </form>
+    </body>
+</html>
